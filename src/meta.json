@@ -1,0 +1,8 @@
+{
+  "@include": "*",
+  "@run-at": "document-end",
+  "@namespace": "taroxin/center-google-search",
+  "@version": "1.0.0",
+  "@match": "https://www.google.com/search*",
+  "@author": "taroxin"
+}
