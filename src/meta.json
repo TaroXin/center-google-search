@@ -1,8 +1,9 @@
 {
-  "@include": "*",
-  "@run-at": "document-end",
+  "@name": "center-google-search",
+  "@description": "Centering Google's search page",
+  "@include": "https://www.google.com/search*",
+  "@run-at": "document-start",
   "@namespace": "taroxin/center-google-search",
-  "@version": "1.0.0",
-  "@match": "https://www.google.com/search*",
+  "@version": "1.1.0",
   "@author": "taroxin"
 }
