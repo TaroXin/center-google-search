@@ -1,6 +1,8 @@
 {
   "name": "center-google-search",
   "version": "1.0.0",
+  "repository": "https://github.com/TaroXin/center-google-search",
+  "author": "TaroXin",
   "scripts": {
     "dev": "rollup --config --environment BUILD:development --watch",
     "build": "rollup --config",
