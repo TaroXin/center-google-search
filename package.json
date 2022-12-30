@@ -1,6 +1,6 @@
 {
   "name": "center-google-search",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "dev": "rollup --config --environment BUILD:development --watch",
     "build": "rollup --config",
