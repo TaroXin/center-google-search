@@ -10,7 +10,7 @@
 // @supportURL     https://github.com/TaroXin/center-google-search/issue
 // @updateURL      https://raw.githubusercontent.com/TaroXin/center-google-search/main/main.user.js
 // @downloadURL    https://raw.githubusercontent.com/TaroXin/center-google-search/main/main.user.js
-// @run-at         document-start
+// @run-at         document-body
 // ==/UserScript==
 (function () {
 	'use strict';
