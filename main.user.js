@@ -6,6 +6,7 @@
 // @author         taroxin
 // @description    Centering Google's search page
 // @include        https://www.google.com/search*
+// @include        https://www.google.com.hk/search*
 // @homepage       https://github.com/TaroXin/center-google-search#readme
 // @supportURL     https://github.com/TaroXin/center-google-search/issue
 // @updateURL      https://raw.githubusercontent.com/TaroXin/center-google-search/main/main.user.js
